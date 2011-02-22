@@ -1,6 +1,11 @@
 
 public class HelloWorld {
 
+    private HelloWorld() {
+	
+	// nothing
+    }
+    
     /**
      * @param args
      */
